@@ -1,0 +1,11 @@
+# Ảnh gốc ~20MB/ảnh và file tạm, không deploy
+assets/images/
+_src/
+dist/
+.vercel/
+
+# Ban goc nhac (chi deploy ban web da cat/nen)
+assets/music/vay-cuoi.mp3
+
+# L?i ch�c khi ch?y local (b?n th?t n?m ? nh�nh data tr�n GitHub)
+data/
