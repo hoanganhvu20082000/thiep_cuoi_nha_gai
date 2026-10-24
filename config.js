@@ -1,4 +1,4 @@
-﻿// THIỆP NHÀ GÁI. Sửa nội dung thiệp tại đây. Trường nào để "" sẽ tự ẩn.
+// THIỆP NHÀ GÁI. Sửa nội dung thiệp tại đây. Trường nào để "" sẽ tự ẩn.
 window.WEDDING = {
   groom: "Anh Vũ",
   bride: "Phương Thảo",
@@ -25,7 +25,7 @@ window.WEDDING = {
   heroPhoto: "assets/photos/hero.jpg",
   album: ["photo_03", "photo_05", "photo_08", "photo_13", "photo_17", "photo_25"],
 
-  musicFile: "assets/music/vay-cuoi-web.mp3",
+  musicFile: "assets/music/tgca-web.mp3",
 
   // Lời chúc nhà gái lưu riêng vào wishes-nha-gai.json (xem vercel env WISHES_FILE)
   rsvpEndpoint: "/api/wishes"
