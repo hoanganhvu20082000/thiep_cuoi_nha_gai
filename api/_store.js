@@ -7,7 +7,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const REPO = process.env.GITHUB_REPO || "hoanganhvu20082000/thiep_cuoi";
+const REPO = process.env.GITHUB_REPO || "hoanganhvu20082000/thiep_cuoi_nha_gai";
 const BRANCH = process.env.GITHUB_BRANCH || "data";
 // Thiệp nhà gái: lưu riêng, không lẫn với lời chúc nhà trai (wishes.json)
 const FILE = process.env.GITHUB_FILE || "wishes-nha-gai.json";
