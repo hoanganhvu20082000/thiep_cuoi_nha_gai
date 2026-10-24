@@ -25,7 +25,7 @@ window.WEDDING = {
   heroPhoto: "assets/photos/hero.jpg",
   album: ["photo_03", "photo_05", "photo_08", "photo_13", "photo_17", "photo_25"],
 
-  musicFile: "assets/music/tgca-web.mp3",
+  musicFile: "assets/music/nhac-nha-gai.mp3",
 
   // Lời chúc nhà gái lưu riêng vào wishes-nha-gai.json (xem vercel env WISHES_FILE)
   rsvpEndpoint: "/api/wishes"
