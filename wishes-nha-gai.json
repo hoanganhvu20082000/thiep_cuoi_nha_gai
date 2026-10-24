@@ -12,5 +12,12 @@
     "attend": "yes",
     "message": "<script>alert(1)</script> trăm năm",
     "hidden": false
+  },
+  {
+    "at": "2026-10-24T13:43:41.133Z",
+    "name": "Khách A3",
+    "attend": "yes",
+    "message": "Sớm có em bé 👶",
+    "hidden": false
   }
 ]
